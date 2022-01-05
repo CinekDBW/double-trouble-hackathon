@@ -14,19 +14,18 @@ Our team consists of 3 people:
 
 
 ### Installation
-1. Run `pip install -r zad2/requirements.txt` to install necessary packages
-2. Download tesseract.exe from this [link](https://github.com/UB-Mannheim/tesseract/wiki)
-3. Install this exe, make sure it has installed itself in `C:\Program Files\Tesseract- OCR`
-4. Copy and paste `pol.traineddata` to `C:\Program Files\Tesseract-OCR\tessdata\`
-5. Everything should work now!
-
-
-### running task 2
 1. Simply clone the whole repo
 2. Run `pip install -r zad2/requirements.txt` to install necessary packages
-3. Paste input pictures in the `/input` directory
-4. In the main.py file change the filename in `line 71` and run `main.py`
-5. Voilà! Answers are placed in the `/outputs` directory
+3. Download tesseract.exe from this [link](https://github.com/UB-Mannheim/tesseract/wiki)
+4. Install this exe, make sure it has installed itself in `C:\Program Files\Tesseract- OCR`
+5. Copy and paste `pol.traineddata` to `C:\Program Files\Tesseract-OCR\tessdata\`
+6. Everything should work now!
+
+
+### Running task 2
+1. Paste input pictures in the `/input` directory
+2. In the main.py file change the filename in `line 71` and run `main.py`
+3. Voilà! Answers are placed in the `/outputs` directory
 
 
 ### Usage
@@ -37,6 +36,30 @@ Our team consists of 3 people:
 python3 main.py
 
 ```
+
+# Task 3
+
+
+### Installation
+1. Simply clone the whole repo
+2. Run `pip install -r zad3/requirements.txt` to install necessary packages
+3. Make sure all files are in the same location as `main.py` file
+4. Everything should work now!
+
+
+### Running task 3
+1. Open `index.html` in your browser
+2. Run `main.py`, reopen browser and reload page
+2. Voilà! Enjoy watching bot playing a game
+
+### Usage
+
+```python
+
+python3 main.py
+
+```
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
