@@ -41,6 +41,10 @@ def zadanie2(path):
     indexes = findPiece(outputPostCezar)
     if (indexes[1] == -1):
         print("decoding failed successfully")
+
+    if not os.path.exists("./output"):
+        os.mkdir('./output')
+
     with open(f'output/{filename.split(".")[0]}.txt', 'w') as f:
         f.write(f'{indexes[0]} {indexes[1]}')
 
@@ -68,5 +72,5 @@ def main(path):
 
 
 if __name__ == '__main__':
-    path = 'input/szyfr_1.png'
+    path = 'input/szyfr_2.png'
     main(path)
