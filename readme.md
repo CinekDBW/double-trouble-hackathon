@@ -4,9 +4,9 @@ In this repo you can find our implementations of the tasks on BEST Hackathon 202
 
 ## Contributors
 Our team consists of 3 people:
-* @Ciniaq
-* @Percival33
-* @CinekDBW
+* @[Ciniaq](https://github.com/Ciniaq)
+* @[Percival33](https://github.com/Percival33)
+* @[CinekDBW](https://github.com/CinekDBW)
 
 
 
