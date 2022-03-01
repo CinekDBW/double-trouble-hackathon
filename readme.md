@@ -6,7 +6,7 @@ In this repo you can find our implementations of the tasks on BEST Hackathon 202
 Our team consists of 3 people:
 * @[Ciniaq](https://github.com/Ciniaq)
 * @[Percival33](https://github.com/Percival33)
-* @[CinekDBW](https://github.com/CinekDBW)
+* @[mc-lojek](https://github.com/mc-lojek)
 
 # Task 1
 
