@@ -6,8 +6,32 @@ In this repo you can find our implementations of the tasks on BEST Hackathon 202
 Our team consists of 3 people:
 * @[Ciniaq](https://github.com/Ciniaq)
 * @[Percival33](https://github.com/Percival33)
-* @[CinekDBW](https://github.com/CinekDBW)
+* @[mc-lojek](https://github.com/mc-lojek)
 
+# Task 1
+
+
+### Installation
+1. Simply clone the whole repo
+2. Run `pip install -r zad1/requirements.txt` to install necessary packages
+3. Put all images in folder
+4. Change PATH variable
+6. Everything should work now!
+
+
+### Running task 1
+1. Change PATH variable accordingly to your files destination
+2. Run `python3 main.py` 
+3. Voilà! Output file should be in directory
+
+
+### Usage
+
+```python
+
+python3 main.py
+
+```
 
 
 # Task 2
@@ -36,6 +60,7 @@ Our team consists of 3 people:
 python3 main.py
 
 ```
+
 
 # Task 3
 
